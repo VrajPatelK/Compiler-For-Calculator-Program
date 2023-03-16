@@ -1,9 +1,9 @@
 ### Compiler for Calculator Program
 
-* This project is a compiler for a calculator program developed by Rajan Patel, Shail Patel, Vraj Patel, and Karan Patwa, students of the Department of Information Technology at Dharmsinh Desai University.
+* This project is a <b>Compiler For Calculator Program </b>developed by <u>Rajan Patel, Shail Patel, Vraj Patel, and Karan Patwa</u> students of the Department of Information Technology at Dharmsinh Desai University.
 
 ### Description
-This project aims to develop a compiler for a calculator program. The project includes the implementation of the following components:
+* This project aims to develop a compiler for a calculator program. The project includes the implementation of the following components:
 
 1. First & Follow: This component is used to generate the parsing table for the grammar of the calculator program. It includes examples to help understand the concept.
 
@@ -12,6 +12,21 @@ This project aims to develop a compiler for a calculator program. The project in
 3. Scanner Phase in Lex: This component is used to implement the scanner phase in Lex. It includes the implementation of regular expressions for the tokens of the calculator program.
 
 4. Yacc: This component is used to implement the parser phase of the calculator program using Yacc. It includes the implementation of the grammar rules for the calculator program.
+
+### Getting Started
+1. To run the lex file for ```scanner phase```
+```
+lex parse.l
+gcc lex.yy.c
+./a.out
+```
+
+2. To run ```yacc files```
+```
+yacc -d iml.y
+cc y.tab.c lex.yy.c
+./a.out
+```
 
 ### Project Members
 * Rajan Patel (IT110 - 20ITUOS098)
