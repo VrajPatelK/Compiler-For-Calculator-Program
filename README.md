@@ -50,6 +50,6 @@ cc y.tab.c lex.yy.c
 
 ##### Date: 16/03/2023
 
-Prof. (Dr.) V.K. Dabhi,
-Head, Department of Information Technology, Faculty of Technology,
-Dharmsinh Desai University, Nadiad
+Prof. (Dr.) V.K. Dabhi,<br>
+Head, Department of Information Technology, Faculty of Technology <br>
+Dharmsinh Desai University, Nadiad <br>
