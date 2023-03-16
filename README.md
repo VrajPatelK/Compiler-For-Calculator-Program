@@ -35,21 +35,21 @@ cc y.tab.c lex.yy.c
 * Karan Patwa (IT122 - 20ITUON123)
 
 ### Guided By
-Prof. Nilamba Vala
-Department of Information Technology
+* Prof. Nilamba Vala<br>
+* Department of Information Technology
 
 ### Certificate
-This project report titled "Compiler for Calculator Program" is a bona fide report of the work carried out by the above-mentioned students under the guidance and supervision of Prof. Nilamba Vala, Department of Information Technology, Faculty of Technology, Dharmsinh Desai University, Nadiad.
+* This project report titled "Compiler for Calculator Program" is a bona fide report of the work carried out by the above-mentioned students under the guidance and supervision of Prof. Nilamba Vala, Department of Information Technology, Faculty of Technology, Dharmsinh Desai University, Nadiad.
 
-This certificate is awarded to acknowledge their hard work, dedication, and commitment to excellence in their academic pursuits.
+* This certificate is awarded to acknowledge their hard work, dedication, and commitment to excellence in their academic pursuits.
 
 ##### Signed and Awarded By:
-Prof. Nilamba Vala (Lab In Charge)
-Department Of Information Technology, Faculty Of Technology,
-Dharmsinh Desai University, Nadiad
+* Prof. Nilamba Vala (Lab In Charge) <br>
+* Department Of Information Technology, Faculty Of Technology <br>
+* Dharmsinh Desai University, Nadiad 
 
 ##### Date: 16/03/2023
 
-##### Prof. (Dr.) V.K. Dabhi,
-##### Head, Department of Information Technology, Faculty of Technology,
-##### Dharmsinh Desai University, Nadiad
+Prof. (Dr.) V.K. Dabhi,
+Head, Department of Information Technology, Faculty of Technology,
+Dharmsinh Desai University, Nadiad
